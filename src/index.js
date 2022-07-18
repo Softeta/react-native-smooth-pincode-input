@@ -8,7 +8,7 @@ import {
   I18nManager,
 } from 'react-native';
 import * as Animatable from 'react-native-animatable';
-import { ViewPropTypes } from 'deprecated-view-prop-types';
+import { ViewPropTypes } from 'deprecated-react-native-prop-types';
 
 const styles = StyleSheet.create({
   containerDefault: {},
